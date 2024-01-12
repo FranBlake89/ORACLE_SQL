@@ -8,7 +8,7 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
 
 # Content
 
-## 1. Database Management System Project
+#### 1. Database Management System Project
 
 <details>
 <summary> Click to expand! </summary>
@@ -76,7 +76,7 @@ Feel free to explore and use this repository for educational or reference purpos
 
 </details>
 
-## 2. ORACLE_01 - Description and Queries
+#### 2. ORACLE_01 - Description and Queries
 
 <details>
 <summary> Click to expand! </summary>
@@ -99,7 +99,7 @@ This SQL script includes queries and view operations for employee and customer d
 
 </details>
  
-## 3. ORACLE_02 - Description and Queries
+#### 3. ORACLE_02 - Description and Queries
 
 <details>
 <summary> Click to expand! </summary>
@@ -131,7 +131,7 @@ This SQL script includes a variety of queries and operations on an employee and 
 
 </details>
 
-## 4. ORACLE_03 - Description and Queries
+#### 4. ORACLE_03 - Description and Queries
 
 <details>
 <summary> Click to expand! </summary>
@@ -161,7 +161,7 @@ This SQL script performs various operations on tables in a relational database, 
 
 </details>
 
-## 5. ORACLE_04 - Description and Queries
+#### 5. ORACLE_04 - Description and Queries
 
 <details>
 <summary> Click to expand! </summary>
@@ -179,7 +179,7 @@ This repository contains SQL queries created for Lab 1 of the DBS311 course. Eac
 
 </details>
 
-## 6. ORACLE_05 - Description and Queries
+#### 6. ORACLE_05 - Description and Queries
 
 <details>
 <summary> Click to expand! </summary>
@@ -196,7 +196,7 @@ This repository contains SQL queries created for Lab 2 of the DBS311 course. Eac
 
 </details>
 
-## 7. ORACLE_06 - Description and Queries
+#### 7. ORACLE_06 - Description and Queries
 
 <details>
 <summary> Click to expand! </summary>
@@ -212,7 +212,7 @@ This repository contains SQL queries created for Lab 3 of the DBS311 course. Eac
 
 </details>
 
-## 8. ORACLE_07 - Description and Queries
+#### 8. ORACLE_07 - Description and Queries
 
 <details>
 <summary> Click to expand! </summary>
@@ -229,7 +229,7 @@ This repository contains SQL queries developed for Lab 4 of the DBS311 course, s
 
 </details>
 
-## 9. ORACLE_08 - Description and Queries
+#### 9. ORACLE_08 - Description and Queries
 
 <details>
 <summary> Click to expand! </summary>
@@ -245,7 +245,7 @@ This repository contains solutions for Lab 05 of the DBS 311 course, showcasing 
 </details>
 
 
-## 10. ORACLE_EXTRA - Description and Queries
+#### 10. ORACLE_EXTRA - Description and Queries
 
 <details>
 <summary> Click to expand! </summary>
