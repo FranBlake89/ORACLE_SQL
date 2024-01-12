@@ -2,15 +2,20 @@
 
 The repository provides a comprehensive set of SQL scripts designed to interact with and retrieve data from the specified databases.
  
->In the collapsed section, you will find a short `description`` and the announcement for the `queries`.
+>In the collapsed section, you will find a short `description` and the announcement for the `queries`.
 
 >The `Oracle sample database` was used for Project 04 and subsequent projects.
 
-## Database Management System Project
+# Content
+
+## 1. Database Management System Project
 
 ### Project Overview
 
 This repository contains the final project for the DBS-211 course. The project involves the design and implementation of a database system for a library management system. It includes the creation of tables, SQL queries, stored procedures, and data population.
+
+<details>
+<summary> `+ More details` </summary>
 
 ### Contributors
 
@@ -33,9 +38,6 @@ This repository contains the final project for the DBS-211 course. The project i
 3. [Sample Data Insertion](#sample-data-insertion)
 
 ### SQL Queries
-
-<details>
-<summary> + More details</summary>
 
 #### Business Reports
 
@@ -74,8 +76,10 @@ Feel free to explore and use this repository for educational or reference purpos
 
 </details>
 
+======
+
 <details>
-<summary> ORACLE_01 - Description and Queries</summary>
+<summary> ## 2. ORACLE_01 - Description and Queries</summary>
 
 ## SQL Queries and Views
 
@@ -96,7 +100,7 @@ This SQL script includes queries and view operations for employee and customer d
 </details>
  
 <details>
-<summary> ORACLE_02 - Description and Queries</summary>
+<summary> 3. ORACLE_02 - Description and Queries</summary>
 
 ## SQL Queries and Operations
 
@@ -126,7 +130,7 @@ This SQL script includes a variety of queries and operations on an employee and 
 </details>
 
 <details>
-<summary> ORACLE_03 - Description and Queries</summary>
+<summary> 4. ORACLE_03 - Description and Queries</summary>
 
 ## SQL Table Operations
 
@@ -154,7 +158,7 @@ This SQL script performs various operations on tables in a relational database, 
 </details>
 
 <details>
-<summary> ORACLE_04 - Description and Queries</summary>
+<summary> 5. ORACLE_04 - Description and Queries</summary>
 
 ## Lab 1 DBS311 SQL Queries
 
@@ -170,7 +174,7 @@ This repository contains SQL queries created for Lab 1 of the DBS311 course. Eac
 </details>
 
 <details>
-<summary> ORACLE_05 - Description and Queries</summary>
+<summary> 6. ORACLE_05 - Description and Queries</summary>
 
 ## Lab 2 DBS311 SQL Queries
 
@@ -185,7 +189,7 @@ This repository contains SQL queries created for Lab 2 of the DBS311 course. Eac
 </details>
 
 <details>
-<summary> ORACLE_06 - Description and Queries</summary>
+<summary> 7. ORACLE_06 - Description and Queries</summary>
 
 ## Lab 3 DBS311 SQL Queries
 
@@ -199,7 +203,7 @@ This repository contains SQL queries created for Lab 3 of the DBS311 course. Eac
 </details>
 
 <details>
-<summary> ORACLE_07 - Description and Queries</summary>
+<summary> 8. ORACLE_07 - Description and Queries</summary>
 
 ## Lab 4 DBS311 SQL Queries
 
@@ -214,7 +218,7 @@ This repository contains SQL queries developed for Lab 4 of the DBS311 course, s
 </details>
 
 <details>
-<summary> ORACLE_08 - Description and Queries</summary>
+<summary> 9. ORACLE_08 - Description and Queries</summary>
 
 ## Lab 05 DBS 311 SQL Solutions
 
@@ -228,7 +232,7 @@ This repository contains solutions for Lab 05 of the DBS 311 course, showcasing 
 
 
 <details>
-<summary> ORACLE_EXTRA - Description and Queries</summary>
+<summary> 10. ORACLE_EXTRA - Description and Queries</summary>
 
 ## SQL Queries for Warehouse and Customer Statistics
 
