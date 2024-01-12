@@ -1,7 +1,7 @@
---6.	Display Warehouse Id, warehouse name, product category Id, product category name, and the lowest product standard cost for this combination.
---•	In your result, include the rows that the lowest standard cost is less then $200.
---•	Also, include the rows that the lowest cost is more than $500.
---•	Sort the output according to Warehouse Id, warehouse name and then product category Id, and product category name.
+--EXTRA.	Display Warehouse Id, warehouse name, product category Id, product category name, and the lowest product standard cost for this combination.
+--ï¿½	In your result, include the rows that the lowest standard cost is less then $200.
+--ï¿½	Also, include the rows that the lowest cost is more than $500.
+--ï¿½	Sort the output according to Warehouse Id, warehouse name and then product category Id, and product category name.
 
 
 
