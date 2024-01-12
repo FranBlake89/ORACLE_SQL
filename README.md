@@ -10,71 +10,71 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
 
 #### 1. Database Management System Project
 
-     <details>
-     <summary> Click to expand! </summary>
-     
-     ### Project Overview
-     
-     This repository contains the final project for the DBS-211 course. The project involves the design and implementation of a database system for a library management system. It includes the creation of tables, SQL queries, stored procedures, and data population.
-     
-     ### Contributors
-     
-     - Raymond Javier
-     - Francisco Castillo
-     - Gurleen
-     
-     ### Table of Contents
-     
-     1. [SQL Queries](#sql-queries)
-         - [Business Reports](#business-reports)
-         - [Create Tables](#create-tables)
-         - [Data Source](#data-source)
-     
-     2. [SQL Queries Details](#sql-queries-details)
-         - [Business Reports Details](#business-reports-details)
-         - [Create Tables Details](#create-tables-details)
-         - [Data Source Details](#data-source-details)
-     
-     3. [Sample Data Insertion](#sample-data-insertion)
-     
-     ### SQL Queries
-     
-     #### Business Reports
-     
-     The `BusinessReport.SQL` file includes SQL queries to generate various reports for the library management system. These reports cover aspects such as due dates, fines, most borrowed books, and user/borrowers reports.
-     
-     #### Create Tables
-     
-     The `CreateTable.SQL` file contains SQL scripts to create the necessary tables for the library management system. These tables include `status_library`, `users_library`, `books_library`, `librarians_library`, `sections_library`, `catalogs_library`, and `records_library`.
-     
-     #### Data Source
-     
-     The `DataSource.SQL` file includes sample data insertion scripts for the created tables.
-     
-     ### SQL Queries Details
-     
-     #### Business Reports Details
-     
-     - The first set of queries focuses on reports related to due dates and overdue books.
-     - The second set calculates fines for late returns.
-     - The third set determines the most borrowed books.
-     - The fourth set generates a user/borrowers report.
-     
-     #### Create Tables Details
-     
-     - Creation of tables such as `status_library`, `users_library`, `books_library`, `librarians_library`, `sections_library`, `catalogs_library`, and `records_library`.
-     
-     #### Data Source Details
-     
-     - Sample data insertion for each table to populate the database with initial records.
-     
-     ### Sample Data Insertion
-     
-     The sample data inserted into the tables provides a starting point for testing and development. It includes data for users, books, librarians, sections, catalogs, and records.
-     
-     Feel free to explore and use this repository for educational or reference purposes. For any inquiries, please contact the contributors.
-     
-     </details>
+   <details>
+   <summary> Click to expand! </summary>
+   
+   ### Project Overview
+   
+   This repository contains the final project for the DBS-211 course. The project involves the design and implementation of a database system for a library management system. It includes the creation of tables, SQL queries, stored procedures, and data population.
+   
+   ### Contributors
+   
+   - Raymond Javier
+   - Francisco Castillo
+   - Gurleen
+   
+   ### Table of Contents
+   
+   1. [SQL Queries](#sql-queries)
+       - [Business Reports](#business-reports)
+       - [Create Tables](#create-tables)
+       - [Data Source](#data-source)
+   
+   2. [SQL Queries Details](#sql-queries-details)
+       - [Business Reports Details](#business-reports-details)
+       - [Create Tables Details](#create-tables-details)
+       - [Data Source Details](#data-source-details)
+   
+   3. [Sample Data Insertion](#sample-data-insertion)
+   
+   ### SQL Queries
+   
+   #### Business Reports
+   
+   The `BusinessReport.SQL` file includes SQL queries to generate various reports for the library management system. These reports cover aspects such as due dates, fines, most borrowed books, and user/borrowers reports.
+   
+   #### Create Tables
+   
+   The `CreateTable.SQL` file contains SQL scripts to create the necessary tables for the library management system. These tables include `status_library`, `users_library`, `books_library`, `librarians_library`, `sections_library`, `catalogs_library`, and `records_library`.
+   
+   #### Data Source
+   
+   The `DataSource.SQL` file includes sample data insertion scripts for the created tables.
+   
+   ### SQL Queries Details
+   
+   #### Business Reports Details
+   
+   - The first set of queries focuses on reports related to due dates and overdue books.
+   - The second set calculates fines for late returns.
+   - The third set determines the most borrowed books.
+   - The fourth set generates a user/borrowers report.
+   
+   #### Create Tables Details
+   
+   - Creation of tables such as `status_library`, `users_library`, `books_library`, `librarians_library`, `sections_library`, `catalogs_library`, and `records_library`.
+   
+   #### Data Source Details
+   
+   - Sample data insertion for each table to populate the database with initial records.
+   
+   ### Sample Data Insertion
+   
+   The sample data inserted into the tables provides a starting point for testing and development. It includes data for users, books, librarians, sections, catalogs, and records.
+   
+   Feel free to explore and use this repository for educational or reference purposes. For any inquiries, please contact the contributors.
+   
+   </details>
 
 #### 2. ORACLE_01 - Description and Queries
 
