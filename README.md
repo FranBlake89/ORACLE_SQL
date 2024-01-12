@@ -268,4 +268,4 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
+This project is licensed under the [MIT License](https://github.com/FranBlake89/ORACLE_SQL/blob/main/LICENSE).
