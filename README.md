@@ -76,7 +76,7 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
    
    </details>
 
-#### 2. ORACLE_01 - Description and Queries
+#### 2. ORACLE_01 - Queries and Views
 
    <details>
    <summary> Click to expand! </summary>
@@ -99,7 +99,7 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
    
    </details>
  
-#### 3. ORACLE_02 - Description and Queries
+#### 3. ORACLE_02 - Queries and Operations
 
    <details>
    <summary> Click to expand! </summary>
@@ -131,7 +131,7 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
    
    </details>
 
-#### 4. ORACLE_03 - Description and Queries
+#### 4. ORACLE_03 - Table Operations
 
    <details>
    <summary> Click to expand! </summary>
@@ -161,7 +161,7 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
    
    </details>
 
-#### 5. ORACLE_04 - Description and Queries
+#### 5. ORACLE_04 - Dates Queries
 
    <details>
    <summary> Click to expand! </summary>
@@ -179,7 +179,7 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
    
    </details>
 
-#### 6. ORACLE_05 - Description and Queries
+#### 6. ORACLE_05 - Sales Queries
 
    <details>
    <summary> Click to expand! </summary>
@@ -196,7 +196,7 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
    
    </details>
 
-#### 7. ORACLE_06 - Description and Queries
+#### 7. ORACLE_06 - Sales, employees Queries
 
    <details>
    <summary> Click to expand! </summary>
@@ -212,7 +212,7 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
    
    </details>
 
-#### 8. ORACLE_07 - Description and Queries
+#### 8. ORACLE_07 - Union, minus operation & Sales Queries
 
    <details>
    <summary> Click to expand! </summary>
@@ -229,7 +229,7 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
    
    </details>
 
-#### 9. ORACLE_08 - Description and Queries
+#### 9. ORACLE_08 - Oracle SQL procedure and function (PL/SQL)
 
    <details>
    <summary> Click to expand! </summary>
@@ -245,7 +245,7 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
    </details>
 
 
-#### 10. ORACLE_EXTRA - Description and Queries
+#### 10. ORACLE_EXTRA - Statictics & product information Queries
 
    <details>
    <summary> Click to expand! </summary>
