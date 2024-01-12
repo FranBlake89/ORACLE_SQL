@@ -10,7 +10,7 @@ The repository provides a comprehensive set of SQL scripts designed to interact 
 
 #### 1. Database Management System Project
 
-   <details>
+  - - <details>
    <summary> Click to expand! </summary>
    
    ### Project Overview
